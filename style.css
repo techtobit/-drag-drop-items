@@ -1,0 +1,25 @@
+
+.contianer{
+	width: 800px;
+	height: 600px;
+	position: relative;
+	border: 1px solid black;
+}
+
+.node{
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	cursor: grab;
+	background-color: lightsalmon;
+}
+
+#circel{
+	border-radius: 50% !important;
+	background-color: red !important;
+
+}
+
+/* #triangle{
+
+} */
