@@ -20,6 +20,16 @@
 
 }
 
-/* #triangle{
-
-} */
+.line {
+	position: absolute;
+	background-color: red;
+	display: none;
+}
+.vertical-line {
+	width: 2px;
+	height: 100%;
+}
+.horizontal-line {
+	height: 2px;
+	width: 100%;
+}
